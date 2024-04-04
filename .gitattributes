@@ -1,4 +1,4 @@
-NotionNext/themes/heo/config.js merge=ours
-NotionNext/themes/heo/components/Footer.js merge=ours
-NotionNext/blog.config.js merge=ours
-NotionNext/README.md merge=ours
+themes/heo/config.js merge=ours
+themes/heo/components/Footer.js merge=ours
+blog.config.js merge=ours
+README.md merge=ours
